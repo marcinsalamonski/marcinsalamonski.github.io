@@ -24,6 +24,5 @@ Zdecentralizowane aplikacje (dApps), protokoły blockchain, bezpieczeństwo smar
 ***Zapraszam do współpracy, 
 Marcin Salamoński***
 
-Sprawdź mój profil GitHub: [github.com/marcinsalamonski](https://github.com/marcinsalamonski)  
-
-Sprawdź mój profil GitHub: [github.com/ostrykot](https://github.com/ostrykot)
+Sprawdź mój profil GitHub: [github.com/marcinsalamonski](https://github.com/marcinsalamonski) oraz
+[github.com/ostrykot](https://github.com/ostrykot)
