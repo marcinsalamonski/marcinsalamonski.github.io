@@ -21,5 +21,5 @@ Zdecentralizowane aplikacje (dApps), protokoły blockchain, bezpieczeństwo smar
 
 - Chęć ciągłego rozwoju i nauki nowych technologii
 
-Zapraszam do współpracy, 
-Marcin Salamoński
+***Zapraszam do współpracy, 
+Marcin Salamoński***
