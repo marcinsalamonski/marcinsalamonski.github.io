@@ -20,3 +20,6 @@ Zdecentralizowane aplikacje (dApps), protokoły blockchain, bezpieczeństwo smar
 - Zaangażowanie w projekty open-source i współpracę w zespołach
 
 - Chęć ciągłego rozwoju i nauki nowych technologii
+
+Zapraszam do współpracy, 
+Marcin Salamoński
